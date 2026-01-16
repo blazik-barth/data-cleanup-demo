@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+process.log
+
+# Output files
+output/*.csv
+output/*.txt
+
+# Virtual environments
+venv/
+.env
+
+# Sample data
+custom_data.csv

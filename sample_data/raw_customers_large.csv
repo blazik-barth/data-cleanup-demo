@@ -1,0 +1,16 @@
+customer_id,email,signup_date,amount
+101,john.doe@example.com,2024-01-05,100
+102,jane.smith@example.com,2024-01-06,150
+103,,2024-01-07,200
+104,mike.brown@example.com,2024/01/08,175
+105,sarah.jones@example,2024-01-09,125
+101,john.doe@example.com,2024-01-05,100
+106,lisa.white@example.com,,90
+107,kevin.black@example.com,01-10-2024,110
+108,amy.green@example.com,2024-01-11,130
+109,robert.gray@example.com,2024-13-01,140
+110,nancy.adams@example.com,2024-01-12,160
+111,paul.wilson@example.com,2024-01-12,160
+112,paul.wilson@example.com,2024-01-12,160
+113,invalid-email.com,2024-01-13,180
+114,emma.thomas@example.com,2024-01-14,190
